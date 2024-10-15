@@ -11,10 +11,10 @@ class GetCharacterUsingStream {
             // Convert String into IntStream
             .chars()
 
-            // Convert IntStream into Stream<Character>
+            // Convert IntStream into StreamDemo<Character>
             .mapToObj(ch -> (char)ch)
 
-            // Convert Stream<Character> into Character[]
+            // Convert StreamDemo<Character> into Character[]
             // and get the element at the specific index
             .toArray(Character[] ::new)[index];
     }

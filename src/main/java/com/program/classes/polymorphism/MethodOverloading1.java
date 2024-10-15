@@ -1,6 +1,6 @@
 package com.program.classes.polymorphism;
 
-// Demo Class
+// TreeMapSort Class
 class MethodOverloading1 {
 	public void show(int x) 
 	{ 

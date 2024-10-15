@@ -7,7 +7,7 @@ class ReverseString {
         char ch;
       
       System.out.print("Original word: ");
-      System.out.println("Geeks"); //Example word
+      System.out.println("Geeks"); //YearMonthDemo word
       
       for (int i=0; i<str.length(); i++)
       {

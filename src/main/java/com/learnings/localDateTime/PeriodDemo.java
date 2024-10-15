@@ -8,9 +8,9 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.time.temporal.Temporal;
 
-// Main class
+// LongToIntFunctionApplyAsInt class
 public class PeriodDemo {
-	// Main driver method
+	// LongToIntFunctionApplyAsInt driver method
 	public static void main(String[] args)
 	{
 		// Obtaining period representing number of months

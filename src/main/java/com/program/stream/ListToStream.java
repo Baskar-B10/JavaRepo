@@ -1,5 +1,5 @@
 package com.program.stream;// Java Program to convert
-// List to Stream in Java 8 
+// List to StreamDemo in Java 8
 
 import java.util.*; 
 import java.util.stream.*;
@@ -26,8 +26,8 @@ class ListToStream {
 		// Convert List to stream 
 		Stream<String> stream = convertListToStream(list); 
 
-		// Print the Stream 
-		System.out.println("Stream from List: "
+		// Print the StreamDemo
+		System.out.println("StreamDemo from List: "
 					+ Arrays.toString(stream.toArray())); 
 	} 
 } 

@@ -8,7 +8,7 @@ import java.time.Year;
 // Class
 public class YearDemo {
 
-	// Main driver method
+	// LongToIntFunctionApplyAsInt driver method
 	public static void main(String[] args)
 	{
 

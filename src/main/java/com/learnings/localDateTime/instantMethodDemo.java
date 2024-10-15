@@ -6,7 +6,7 @@ import java.time.*;
 // create class
 public class instantMethodDemo {
 
-	// Main method
+	// LongToIntFunctionApplyAsInt method
 	public static void main(String[] args)
 	{
 

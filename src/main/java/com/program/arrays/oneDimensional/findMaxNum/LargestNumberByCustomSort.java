@@ -1,5 +1,5 @@
 package com.program.arrays.oneDimensional.findMaxNum;// Java Program to Find the Largest
-// Element in Array using Java Stream
+// Element in Array using Java StreamDemo
 
 // Driver Class
 public class LargestNumberByCustomSort {

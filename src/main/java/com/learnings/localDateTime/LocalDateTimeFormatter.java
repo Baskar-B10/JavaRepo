@@ -5,10 +5,10 @@ package com.learnings.localDateTime;// Java Program to illustrate LocalDateTime 
 import java.time.LocalDateTime;
 import java.time.format.*;
 
-// Main class
+// LongToIntFunctionApplyAsInt class
 class LocalDateTimeFormatter {
 
-	// Main driver method
+	// LongToIntFunctionApplyAsInt driver method
 	public static void main(String[] args)
 	{
 

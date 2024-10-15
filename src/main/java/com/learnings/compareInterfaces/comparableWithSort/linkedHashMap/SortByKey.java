@@ -13,7 +13,7 @@ import java.util.Map.*;
 // Class 
 public class SortByKey {
 
-	// Main driver method 
+	// LongToIntFunctionApplyAsInt driver method
 	public static void main(String[] args) 
 	{ 
 

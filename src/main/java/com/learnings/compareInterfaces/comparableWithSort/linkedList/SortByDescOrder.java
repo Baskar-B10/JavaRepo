@@ -31,7 +31,7 @@ class Students implements Comparable<Students> {
 }
 
 public class SortByDescOrder {
-	// Main driver method
+	// LongToIntFunctionApplyAsInt driver method
 	public static void main(String[] args)
 	{
 		// Create one LinkedList for Student object

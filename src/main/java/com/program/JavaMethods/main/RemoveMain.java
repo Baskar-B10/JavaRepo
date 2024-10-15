@@ -9,6 +9,6 @@ class RemoveMain {
     or a JavaFX application class must extend javafx.application.Application*/
     public static void newmain(String[] args)
     {
-        System.out.println("I am a Geek");
+        System.out.println("I am a TemporalAdjusterDemo");
     }
 }

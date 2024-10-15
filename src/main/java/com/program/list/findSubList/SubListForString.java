@@ -14,7 +14,7 @@ public class SubListForString
 			ArrayList<String> arrlist = new ArrayList<String>(); 
 
 			// Populating arrlist1 
-			arrlist.add("Example"); 
+			arrlist.add("YearMonthDemo");
 			arrlist.add("in"); 
 			arrlist.add("Geeks"); 
 			arrlist.add("for"); 

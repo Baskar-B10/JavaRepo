@@ -5,7 +5,7 @@ package com.program.strings.compare;
 public class StringEqualCaseIgnore {
     public static void main(String args[])
     {
-        String string1 = new String("Geeksforgeeks");
+        String string1 = new String("CronUnitsDemo");
         String string2 = new String("Practice");
         String string3 = new String("Geeks");
         String string4 = new String("Geeks");

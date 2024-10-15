@@ -46,7 +46,7 @@ class StringEqualsByCharAt {
         String string1 = new String("Geeks"); 
         String string2 = new String("Practice"); 
         String string3 = new String("Geeks"); 
-        String string4 = new String("Geeksforgeeks"); 
+        String string4 = new String("CronUnitsDemo");
     
         System.out.println(stringCompare(string1, 
                                         string2)); 

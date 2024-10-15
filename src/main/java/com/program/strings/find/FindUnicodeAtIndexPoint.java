@@ -38,7 +38,7 @@ class FindUnicodeAtIndexPoint {
 		try {
 
 			// Input string
-			String str1 = "Geeksforgeeks";
+			String str1 = "CronUnitsDemo";
 
 			// unicode at index 0
 			// Storing it in integer variable

@@ -21,7 +21,7 @@ class UsingStream {
       // Convert to String to IntStream
       .chars()
 
-      // Convert IntStream to Stream<Character>
+      // Convert IntStream to StreamDemo<Character>
       .mapToObj(e -> (char)e)
 
       // Collect the elements as a List Of Characters
@@ -36,7 +36,7 @@ class UsingStream {
     {
 
         // Get the String to be converted
-        String str = "Geek";
+        String str = "TemporalAdjusterDemo";
 
         // Get the List of Character
         List<Character>

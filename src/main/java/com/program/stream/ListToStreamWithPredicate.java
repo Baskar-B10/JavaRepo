@@ -1,5 +1,5 @@
 package com.program.stream;// Java Program to convert
-// List to Stream in Java 8 
+// List to StreamDemo in Java 8
 
 import java.util.*;
 import java.util.function.*;
@@ -28,7 +28,7 @@ class ListToStreamWithPredicate {
 			} 
 		}; 
 
-		System.out.println("Stream from List with items"+ 
+		System.out.println("StreamDemo from List with items"+
 									" starting with G: "); 
 
 		// Convert List to stream 

@@ -1,5 +1,5 @@
 package com.program.stream;// Java Program to Find the Largest
-// Element in Array using Java Stream
+// Element in Array using Java StreamDemo
 import java.util.Arrays;
 
 // Driver Class
@@ -10,7 +10,7 @@ public class LargestNumberUsingStream {
 	public static void main(String[] args){ 
 		int arr[] = {10, 324, 45, 90, 9808}; 
 		
-		// Java Stream and max to find the max element
+		// Java StreamDemo and max to find the max element
 		// in array
 		int max = Arrays.stream(arr).max().getAsInt(); 
 	

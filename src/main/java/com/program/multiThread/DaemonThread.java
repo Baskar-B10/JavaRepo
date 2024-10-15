@@ -9,7 +9,7 @@ package com.program.multiThread;// Java program to demonstrate the usage of
 //To put it simply, daemon threads serve user threads by handling background tasks
 // and have no role other than supporting the main execution.
 //
-//Example of Daemon Thread in Java
+//YearMonthDemo of Daemon Thread in Java
 //
 //Some examples of daemon threads in Java include garbage collection (gc) and finalizer.
 // These threads work silently in the background, performing tasks that support the

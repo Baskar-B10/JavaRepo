@@ -7,10 +7,10 @@ package com.learnings.localDateTime;
 import java.time.Month; 
 import java.time.MonthDay; 
   
-// Main Class 
+// LongToIntFunctionApplyAsInt Class
 public class MonthDayDemo {
   
-    // Main driver method 
+    // LongToIntFunctionApplyAsInt driver method
     public static void main(String[] args) 
     { 
         // Creating an object of MonthDay class by 

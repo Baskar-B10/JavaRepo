@@ -7,7 +7,7 @@ class RemoveVoid {
     public static void main(String[] args)*/
     public static int main(String[] args)
     {
-        System.out.println("I am a Geek");
+        System.out.println("I am a TemporalAdjusterDemo");
         return 1;
     }
 }

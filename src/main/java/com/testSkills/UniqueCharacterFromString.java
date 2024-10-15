@@ -14,7 +14,7 @@ public class UniqueCharacterFromString {
        Map<String,Long> uniqueStringMap= strings.
                 stream().
                 collect(Collectors.groupingBy(s -> {return s;}, Collectors.counting()));
-       List<String> outputResult=uniqueStringMap.entrySet().stream().filter((s) -> {
+     List<String> outputResult=uniqueStringMap.entrySet().stream().filter((s) -> {
            return (Long) s.getValue() >1L;
        }).map(Map.Entry::getKey).collect(Collectors.toList());
        outputResult.forEach(System.out::println);

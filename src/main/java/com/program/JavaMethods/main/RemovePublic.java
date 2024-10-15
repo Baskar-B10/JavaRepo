@@ -7,7 +7,7 @@ class RemovePublic {
     or a JavaFX application class must extend javafx.application.Application*/
     private static void main(String[] args)
     {
-        System.out.println("I am a Geek");
+        System.out.println("I am a TemporalAdjusterDemo");
     }
 }
 

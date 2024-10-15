@@ -5,7 +5,7 @@ package com.program.classes.abstractClasses;// Java Program to illustrate Abstra
 // An abstract class without any abstract method
 abstract class Base5 {
 
-	// Demo method. This is not an abstract method.
+	// TreeMapSort method. This is not an abstract method.
 	void fun()
 	{
 		// Print message if class 1 function is called

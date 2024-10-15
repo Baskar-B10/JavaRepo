@@ -36,7 +36,7 @@ public class MergeArraysByList {
       // DateWithDifferentLocale Function
     public static void main(String[] args)
     {
-        // Example usage
+        // YearMonthDemo usage
         int a[] = { 30, 25, 40 };
         int b[] = { 45, 50, 55, 60, 65 };
         int[] result = mergeArraysUsingArrayList(a, b);

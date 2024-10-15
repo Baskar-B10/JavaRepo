@@ -6,7 +6,7 @@ import java.util.*;
 public class ObjectEquals {
     public static void main(String args[])
     {
-        String string1 = new String("Geeksforgeeks");
+        String string1 = new String("CronUnitsDemo");
         String string2 = new String("Geeks");
         String string3 = new String("Geeks");
         String string4 = null;

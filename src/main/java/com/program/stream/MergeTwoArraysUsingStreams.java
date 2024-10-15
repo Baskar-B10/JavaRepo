@@ -1,5 +1,5 @@
 package com.program.stream;// Java Program to demonstrate merging
-// two array using Java Stream 
+// two array using Java StreamDemo
 import java.util.Arrays;
 import java.util.stream.IntStream;
 

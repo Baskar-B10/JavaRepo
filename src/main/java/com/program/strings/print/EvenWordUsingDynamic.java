@@ -26,7 +26,7 @@ class EvenWordUsingDynamic {
 	// Driver code
 	public static void main(String[] args) {
 
-		String s = "i am Geeks for Geeks and a Geek";
+		String s = "i am Geeks for Geeks and a TemporalAdjusterDemo";
 		printWords(s);
 	}
 }

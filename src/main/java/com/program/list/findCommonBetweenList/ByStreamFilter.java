@@ -1,6 +1,6 @@
 package com.program.list.findCommonBetweenList;// Java Program to find common elements
 // in two ArrayLists 
-// Using Stream filter method 
+// Using StreamDemo filter method
 
 // import ArrayList package 
 import java.util.*; 

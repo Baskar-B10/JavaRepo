@@ -4,10 +4,10 @@ package com.learnings.localDateTime;// Java Program to illustrate LocalTime Clas
 // java.time package 
 import java.time.LocalTime;
  
-// Main Class
+// LongToIntFunctionApplyAsInt Class
 public class LocalTimeModify {
    
-    // Main driver method 
+    // LongToIntFunctionApplyAsInt driver method
     public static void main(String args[]) {
        
       // Creating an object of LocalTime class by

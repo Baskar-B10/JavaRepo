@@ -6,7 +6,7 @@ import java.time.*;
 // create class 
 public class fixedMethodDemo { 
 
-	// Main method 
+	// LongToIntFunctionApplyAsInt method
 	public static void main(String[] args) 
 	{ 
 

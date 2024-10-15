@@ -10,9 +10,10 @@ class PrintElementAndCount {
 		Stream<String> stream = Stream.of("Geeks", "For", 
 										"Geeks", "A", 
 										"Computer", "Portal"); 
+stream.peek(s-> System.out.println(s)).findAny().orElse("NA");
 
 		// Print the stream using peek() 
 		// by providing a terminal operation count() 
-		stream.peek(s -> System.out.println(s)).count(); 
+		//stream.peek(s -> System.out.print(s)).count();
 	} 
 } 

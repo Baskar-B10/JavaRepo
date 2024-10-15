@@ -9,7 +9,7 @@ class CodePointAt {
 		StringBuffer str = new StringBuffer(); 
 
 		// add the String to StringBuffer Object 
-		str.append("Geeksforgeeks"); 
+		str.append("CronUnitsDemo");
 
 		// get unicode of char at position 10 
 		int unicode = str.codePointAt(10); 

@@ -4,7 +4,7 @@ import java.util.Optional;
 
 // Driver Class
 public class OptionalDemo {
-      // Main Method
+      // LongToIntFunctionApplyAsInt Method
     public static void main(String[] args)
     {
         String[] words = new String[10];

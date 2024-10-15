@@ -17,7 +17,7 @@ class UsingSplit {
     public static void main(String[] args) {
       
         // Get the String to be converted
-        String str = "Geek";
+        String str = "TemporalAdjusterDemo";
         
         // Get the List of Character
         List<Character> chars = convertStringToCharList(str);
