@@ -62,7 +62,9 @@ public class EmployeeClass {
                filter(employeeClass -> employeeClass.getAge() >25).
                collect(Collectors.toList()));
  */
-       System.out.println(list.stream().mapToInt(value -> value.getAge() ).sum());
+       //System.out.println(list.stream().mapToInt(value -> value.getAge() ).sum());
+
+        System.out.println(list.stream().filter(e-> e.getAge() >25).map(EmployeeClass::getFirstName).collect(Collectors.toList()));
 
 
 
