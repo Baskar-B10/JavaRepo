@@ -5,7 +5,7 @@ public class DaemonThreadException  extends Thread
     public void run()
     {
         System.out.println("Thread name: " + Thread.currentThread().getName());
-        System.out.println("Check if its DaemonThread: "
+        System.out.println("Check if its DaemonThreadSample: "
                 + Thread.currentThread().isDaemon());
     }
 
